@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terry9011
 - 👀 I’m interested in writing codes
-- 🌱 I’m currently learning C AND JAVA SCRIPT
+- 🌱 I’m currently learning JAVA AND JAVA SCRIPT
 - 💞️ I’m looking to collaborate on PROJECTS
 - 📫 How to reach me  : terrienyam@yaoo.com
 
